@@ -1,0 +1,1415 @@
+2019-03-05 10:03:326 INFO  Retry :20 - Retrying test testLoginB with status FAILURE for the 1 times.
+2019-03-05 10:03:341 INFO  Retry :20 - Retrying test testLoginB with status FAILURE for the 2 times.
+2019-03-05 10:03:386 INFO  Retry :20 - Retrying test testLoginC with status FAILURE for the 1 times.
+2019-03-05 10:03:401 INFO  Retry :20 - Retrying test testLoginC with status FAILURE for the 2 times.
+2019-03-05 10:03:618 INFO  Retry :20 - Retrying test testLoginB with status FAILURE for the 1 times.
+2019-03-05 10:03:628 INFO  Retry :20 - Retrying test testLoginB with status FAILURE for the 2 times.
+2019-03-05 10:03:673 INFO  Retry :20 - Retrying test testLoginC with status FAILURE for the 1 times.
+2019-03-05 10:03:683 INFO  Retry :20 - Retrying test testLoginC with status FAILURE for the 2 times.
+2019-03-05 10:03:541 INFO  Retry :20 - Retrying test testLoginB with status FAILURE for the 1 times.
+2019-03-05 10:03:561 INFO  Retry :20 - Retrying test testLoginB with status FAILURE for the 2 times.
+2019-03-05 10:03:621 INFO  Retry :20 - Retrying test testLoginC with status FAILURE for the 1 times.
+2019-03-05 10:03:631 INFO  Retry :20 - Retrying test testLoginC with status FAILURE for the 2 times.
+2019-03-05 10:03:636 INFO  Retry :20 - Retrying test testLoginC with status FAILURE for the 3 times.
+2019-03-10 12:03:24 INFO  LoggerHelper :26 - Logger is configured
+2019-03-10 12:03:62 INFO  LoggerHelper :27 - Logger is configured
+2019-03-10 12:03:67 INFO  LoggerHelper :28 - Logger is configured
+2019-03-11 11:03:289 INFO  ExcelHelper :104 - result updated..
+2019-03-11 11:03:187 INFO  ExcelHelper :104 - result updated..
+2019-03-11 11:03:292 INFO  ExcelHelper :104 - result updated..
+2019-03-12 11:03:966 INFO  ExcelHelper :101 - result updated..
+2019-03-12 11:03:689 INFO  ExcelHelper :101 - result updated..
+2019-03-12 11:03:789 INFO  ExcelHelper :101 - result updated..
+2019-03-12 11:03:69 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-12 11:03:84 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-12 11:03:179 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-12 11:03:189 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-12 11:03:872 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-12 11:03:493 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-12 11:03:623 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-12 11:03:718 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-12 11:03:294 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-12 11:03:795 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-12 11:03:925 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-12 11:03:17 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-12 11:03:115 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-12 11:03:183 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-12 11:03:260 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-12 11:03:399 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-13 11:03:550 INFO  TestBase :103 - session not created: Chrome version must be between 70 and 73
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.94 seconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PRASHANT', ip: '192.168.1.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: ChromeDriver
+2019-03-13 11:03:551 INFO  TestBase :103 - session not created
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=74.0.3724.8)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.35 seconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PRASHANT', ip: '192.168.1.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: ChromeDriver
+2019-03-13 11:03:544 INFO  TestBase :111 - Initialize Web Driver : 125994398
+2019-03-13 11:03:555 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-13 11:03:575 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-13 11:03:583 INFO  WaitHelper :141 - Page is loaded
+2019-03-13 11:03:647 INFO  TestBase :111 - Initialize Web Driver : 125994398
+2019-03-13 11:03:727 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-13 11:03:732 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-13 11:03:740 INFO  WaitHelper :141 - Page is loaded
+2019-03-13 11:03:153 INFO  TestBase :111 - Initialize Web Driver : 2101249621
+2019-03-13 11:03:164 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-13 11:03:269 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-13 11:03:309 INFO  WaitHelper :141 - Page is loaded
+2019-03-18 09:03:598 INFO  TestBase :111 - Initialize Web Driver : 1764996806
+2019-03-18 09:03:636 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-18 09:03:855 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-18 09:03:870 INFO  WaitHelper :141 - Page is loaded
+2019-03-18 10:03:556 INFO  TestBase :111 - Initialize Web Driver : 1651162064
+2019-03-18 10:03:571 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-18 10:03:586 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-18 10:03:596 INFO  WaitHelper :141 - Page is loaded
+2019-03-18 10:03:666 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-18 10:03:357 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-18 10:03:733 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-18 10:03:867 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-18 10:03:972 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-18 10:03:252 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-18 10:03:667 INFO  AssertionHelper :18 - make script Pass ....
+2019-03-18 10:03:757 INFO  AssertionHelper :28 - make script Fail ....
+2019-03-18 10:03:814 INFO  TestBase :117 - Initialize Web Driver : 250112971
+2019-03-18 10:03:822 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-18 10:03:837 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-18 10:03:842 INFO  WaitHelper :141 - Page is loaded
+2019-03-18 11:03:849 INFO  ExtentListener :31 - ATest Started..
+2019-03-18 11:03:879 INFO  ExtentListener :55 - testLoginATest Started..
+2019-03-18 11:03:884 INFO  ExtentListener :61 - testLoginATest Passed..
+2019-03-18 11:03:929 INFO  ExtentListener :23 - ATest Finished..
+2019-03-18 11:03:934 INFO  ExtentListener :31 - BTest Started..
+2019-03-18 11:03:934 INFO  ExtentListener :55 - testLoginBTest Started..
+2019-03-18 11:03:946 ERROR ExtentListener :42 - testLoginBTest Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-03-18 11:03:991 INFO  ExtentListener :23 - BTest Finished..
+2019-03-18 11:03:991 INFO  ExtentListener :31 - CTest Started..
+2019-03-18 11:03:996 INFO  ExtentListener :55 - testLoginCTest Started..
+2019-03-18 11:03:996 ERROR ExtentListener :42 - testLoginCTest Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-03-18 11:03:36 INFO  ExtentListener :23 - CTest Finished..
+2019-03-18 11:03:36 INFO  ExtentListener :31 - TestScreenShotTest Started..
+2019-03-18 11:03:208 INFO  TestBase :117 - Initialize Web Driver : 1991278377
+2019-03-18 11:03:212 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-18 11:03:222 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-18 11:03:237 INFO  WaitHelper :141 - Page is loaded
+2019-03-18 11:03:272 INFO  ExtentListener :55 - testScreenTest Started..
+2019-03-18 11:03:74 INFO  ExtentListener :61 - testScreenTest Passed..
+2019-03-18 11:03:655 INFO  ExtentListener :23 - TestScreenShotTest Finished..
+2019-03-18 11:03:967 INFO  ExtentListener :31 - A Test Started..
+2019-03-18 11:03:716 INFO  TestBase :117 - Initialize Web Driver : 925973605
+2019-03-18 11:03:721 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-18 11:03:737 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-18 11:03:752 INFO  WaitHelper :141 - Page is loaded
+2019-03-18 11:03:830 INFO  ExtentListener :55 - testLoginA Test Started..
+2019-03-18 11:03:846 INFO  ExtentListener :61 - testLoginA Test Passed..
+2019-03-18 11:03:565 INFO  ExtentListener :23 - A Test Finished..
+2019-03-18 11:03:565 INFO  ExtentListener :31 - B Test Started..
+2019-03-18 11:03:642 INFO  TestBase :117 - Initialize Web Driver : 474488818
+2019-03-18 11:03:642 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-18 11:03:657 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-18 11:03:672 INFO  WaitHelper :141 - Page is loaded
+2019-03-18 11:03:703 INFO  ExtentListener :55 - testLoginB Test Started..
+2019-03-18 11:03:703 ERROR ExtentListener :42 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-03-18 11:03:156 INFO  ExtentListener :23 - B Test Finished..
+2019-03-18 11:03:156 INFO  ExtentListener :31 - C Test Started..
+2019-03-18 11:03:487 INFO  TestBase :117 - Initialize Web Driver : 768415370
+2019-03-18 11:03:503 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-18 11:03:506 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-18 11:03:521 INFO  WaitHelper :141 - Page is loaded
+2019-03-18 11:03:537 INFO  ExtentListener :55 - testLoginC Test Started..
+2019-03-18 11:03:537 ERROR ExtentListener :42 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-03-18 11:03:662 INFO  ExtentListener :23 - C Test Finished..
+2019-03-18 11:03:662 INFO  ExtentListener :31 - TestScreenShot Test Started..
+2019-03-18 11:03:199 INFO  TestBase :117 - Initialize Web Driver : 443290224
+2019-03-18 11:03:199 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-18 11:03:228 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-18 11:03:244 INFO  WaitHelper :141 - Page is loaded
+2019-03-18 11:03:260 INFO  ExtentListener :55 - testScreen Test Started..
+2019-03-18 11:03:972 INFO  ExtentListener :61 - testScreen Test Passed..
+2019-03-18 11:03:162 INFO  ExtentListener :23 - TestScreenShot Test Finished..
+2019-03-19 11:03:405 ERROR DataBaseHelper :43 - Failed to create Data base connection..com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+2019-03-19 11:03:450 INFO  DataBaseHelper :58 - Executing query SELECT salary from employee where idemployee=2
+2019-03-31 13:03:492 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 13:03:534 INFO  WaitHelper :36 - Implicit wait has been set to: 120
+2019-03-31 13:03:54 INFO  WaitHelper :138 - Waiting for page to load for : SECONDSseconds
+2019-03-31 13:03:67 INFO  WaitHelper :140 - Page is loaded
+2019-03-31 13:03:755 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 13:03:766 INFO  WaitHelper :36 - Implicit wait has been set to: 120
+2019-03-31 13:03:776 INFO  WaitHelper :138 - Waiting for page to load for : SECONDSseconds
+2019-03-31 13:03:786 INFO  WaitHelper :140 - Page is loaded
+2019-03-31 13:03:879 INFO  WaitHelper :144 - waiting for :[[FirefoxDriver: firefox on WINDOWS (cf50b82d-a141-4290-a795-bcbc9d1866dc)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-03-31 13:03:26 INFO  WaitHelper :147 - element is visible now
+2019-03-31 13:03:26 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 13:03:466 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-03-31 13:03:325 INFO  LoginPage :73 - Entering email address....prashant@mailinator.com
+2019-03-31 13:03:182 INFO  TestBase :125 - Initialize Web Driver : 1651162064
+2019-03-31 13:03:192 INFO  WaitHelper :36 - Implicit wait has been set to: 120
+2019-03-31 13:03:197 INFO  WaitHelper :138 - Waiting for page to load for : SECONDSseconds
+2019-03-31 13:03:207 INFO  WaitHelper :140 - Page is loaded
+2019-03-31 13:03:823 INFO  WaitHelper :144 - waiting for :[[FirefoxDriver: firefox on WINDOWS (2afa9cc6-f0c8-4497-b678-c84344abb5dd)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-03-31 13:03:920 INFO  WaitHelper :147 - element is visible now
+2019-03-31 13:03:920 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 13:03:300 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-03-31 13:03:16 INFO  LoginPage :73 - Entering email address....prashant@mailinator.com
+2019-03-31 13:03:275 INFO  LoginPage :80 - Entering password....[[FirefoxDriver: firefox on WINDOWS (2afa9cc6-f0c8-4497-b678-c84344abb5dd)] -> xpath: //input[@name='email']]
+2019-03-31 13:03:370 INFO  LoginPage :85 - Clicking on submit button
+2019-03-31 13:03:372 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-03-31 13:03:372 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-03-31 13:03:900 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-03-31 19:03:700 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 19:03:708 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 19:03:859 INFO  TestBase :125 - Initialize Web Driver : 2113604623
+2019-03-31 19:03:982 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 19:03:82 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 19:03:107 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 19:03:136 INFO  WaitHelper :148 - Waiting for page to load for : SECONDSseconds
+2019-03-31 19:03:140 INFO  WaitHelper :151 - Page is loaded
+2019-03-31 19:03:53 INFO  WaitHelper :156 - waiting for :[[FirefoxDriver: firefox on WINDOWS (1a52508d-e885-4070-b024-7060a5dcfbc9)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-03-31 19:03:214 INFO  WaitHelper :160 - element is visible now
+2019-03-31 19:03:218 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 19:03:688 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-03-31 19:03:461 INFO  LoginPage :72 - Entering email address....prashant@mailinator.com
+2019-03-31 19:03:658 INFO  LoginPage :78 - Entering password....[[FirefoxDriver: firefox on WINDOWS (1a52508d-e885-4070-b024-7060a5dcfbc9)] -> xpath: //input[@name='email']]
+2019-03-31 19:03:771 INFO  LoginPage :84 - Clicking on submit button
+2019-03-31 19:03:775 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-03-31 19:03:775 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-03-31 19:03:42 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-03-31 19:03:949 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 19:03:956 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 19:03:452 INFO  TestBase :125 - Initialize Web Driver : 1651162064
+2019-03-31 19:03:482 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 19:03:155 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 19:03:192 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 19:03:796 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 19:03:802 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 20:03:99 INFO  TestBase :125 - Initialize Web Driver : 1651162064
+2019-03-31 20:03:111 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 20:03:121 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-31 20:03:126 INFO  WaitHelper :141 - Page is loaded
+2019-03-31 20:03:187 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 20:03:196 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 20:03:216 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-31 20:03:221 INFO  WaitHelper :141 - Page is loaded
+2019-03-31 20:03:782 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (85bd63c6-25a3-460a-8157-80a007b01019)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-03-31 20:03:889 INFO  WaitHelper :148 - element is visible now
+2019-03-31 20:03:894 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 20:03:339 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-03-31 20:03:919 INFO  LoginPage :96 - Entering registration email....1554045117919@gmail.com
+2019-03-31 20:03:957 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (85bd63c6-25a3-460a-8157-80a007b01019)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-03-31 20:03:30 INFO  WaitHelper :148 - element is visible now
+2019-03-31 20:03:30 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 20:03:170 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (85bd63c6-25a3-460a-8157-80a007b01019)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-03-31 20:03:220 INFO  WaitHelper :148 - element is visible now
+2019-03-31 20:03:220 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 20:03:308 INFO  HomePage :100 - selecting mr checkbox....
+2019-03-31 20:03:617 INFO  HomePage :112 - entering firstnamefirtName
+2019-03-31 20:03:662 INFO  HomePage :112 - entering firstnamelastName
+2019-03-31 20:03:732 INFO  HomePage :130 - entering password..password
+2019-03-31 20:03:802 INFO  HomePage :196 - Enetring addressaddress
+2019-03-31 20:03:65 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-03-31 20:03:170 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-03-31 20:03:261 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-03-31 20:03:739 INFO  TestBase :125 - Initialize Web Driver : 1651162064
+2019-03-31 20:03:772 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 20:03:787 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-31 20:03:792 INFO  WaitHelper :141 - Page is loaded
+2019-03-31 20:03:768 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (5c9a8fab-b773-4f12-a2be-3336fada8673)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-03-31 20:03:850 INFO  WaitHelper :148 - element is visible now
+2019-03-31 20:03:855 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 20:03:271 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-03-31 20:03:473 INFO  LoginPage :96 - Entering registration email....1554045366473@gmail.com
+2019-03-31 20:03:383 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (5c9a8fab-b773-4f12-a2be-3336fada8673)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-03-31 20:03:454 INFO  WaitHelper :148 - element is visible now
+2019-03-31 20:03:454 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 20:03:564 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (5c9a8fab-b773-4f12-a2be-3336fada8673)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-03-31 20:03:609 INFO  WaitHelper :148 - element is visible now
+2019-03-31 20:03:609 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 20:03:684 INFO  HomePage :100 - selecting mr checkbox....
+2019-03-31 20:03:65 INFO  HomePage :112 - entering firstnamefirtName
+2019-03-31 20:03:115 INFO  HomePage :112 - entering firstnamelastName
+2019-03-31 20:03:190 INFO  HomePage :130 - entering password..password
+2019-03-31 20:03:245 INFO  HomePage :196 - Enetring addressaddress
+2019-03-31 20:03:501 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-03-31 20:03:587 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-03-31 20:03:652 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-03-31 20:03:717 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-03-31 20:03:772 INFO  HomePage :214 - Entering address state Alaska
+2019-03-31 20:03:842 INFO  HomePage :220 - Entering address postal code 99501
+2019-03-31 20:03:902 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-03-31 20:03:962 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-03-31 20:03:27 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (5c9a8fab-b773-4f12-a2be-3336fada8673)] -> xpath: //*[@id='submitAccount']]
+2019-03-31 20:03:172 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 20:03:178 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 20:03:188 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-31 20:03:203 INFO  WaitHelper :141 - Page is loaded
+2019-03-31 20:03:246 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (e5f7fcc0-fa40-42ab-8ad6-d5854d54d7a5)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-03-31 20:03:320 INFO  WaitHelper :148 - element is visible now
+2019-03-31 20:03:325 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 20:03:802 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-03-31 20:03:165 INFO  LoginPage :96 - Entering registration email....1554045497165@gmail.com
+2019-03-31 20:03:196 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (e5f7fcc0-fa40-42ab-8ad6-d5854d54d7a5)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-03-31 20:03:262 INFO  WaitHelper :148 - element is visible now
+2019-03-31 20:03:262 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 20:03:391 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (e5f7fcc0-fa40-42ab-8ad6-d5854d54d7a5)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-03-31 20:03:448 INFO  WaitHelper :148 - element is visible now
+2019-03-31 20:03:449 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 20:03:536 INFO  HomePage :100 - selecting mr checkbox....
+2019-03-31 20:03:883 INFO  HomePage :112 - entering firstnamefirtName
+2019-03-31 20:03:928 INFO  HomePage :112 - entering firstnamelastName
+2019-03-31 20:03:983 INFO  HomePage :130 - entering password..password
+2019-03-31 20:03:48 INFO  HomePage :196 - Enetring addressaddress
+2019-03-31 20:03:264 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-03-31 20:03:355 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-03-31 20:03:430 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-03-31 20:03:505 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-03-31 20:03:570 INFO  HomePage :214 - Entering address state Alaska
+2019-03-31 20:03:645 INFO  HomePage :220 - Entering address postal code 99501
+2019-03-31 20:03:710 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-03-31 20:03:780 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-03-31 20:03:855 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (e5f7fcc0-fa40-42ab-8ad6-d5854d54d7a5)] -> xpath: //*[@id='submitAccount']]
+2019-03-31 20:03:696 INFO  WaitHelper :145 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Order history and details')]' for200 seconds
+2019-03-31 22:03:713 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-03-31 22:03:723 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 22:03:733 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-31 22:03:748 INFO  WaitHelper :141 - Page is loaded
+2019-03-31 22:03:379 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (0d956540-6142-4567-83dd-c040579fdaeb)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-03-31 22:03:479 INFO  WaitHelper :148 - element is visible now
+2019-03-31 22:03:479 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 22:03:902 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-03-31 22:03:807 INFO  LoginPage :96 - Entering registration email....1554050138807@gmail.com
+2019-03-31 22:03:742 INFO  TestBase :125 - Initialize Web Driver : 1195064186
+2019-03-31 22:03:751 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-03-31 22:03:766 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-03-31 22:03:771 INFO  WaitHelper :141 - Page is loaded
+2019-03-31 22:03:480 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (4e84a7bf-11ca-478e-936d-fd16978c3312)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-03-31 22:03:621 INFO  WaitHelper :148 - element is visible now
+2019-03-31 22:03:621 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 22:03:26 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-03-31 22:03:702 INFO  LoginPage :96 - Entering registration email....1554050205702@gmail.com
+2019-03-31 22:03:723 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (4e84a7bf-11ca-478e-936d-fd16978c3312)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-03-31 22:03:795 INFO  WaitHelper :148 - element is visible now
+2019-03-31 22:03:795 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 22:03:930 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (4e84a7bf-11ca-478e-936d-fd16978c3312)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-03-31 22:03:980 INFO  WaitHelper :148 - element is visible now
+2019-03-31 22:03:980 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 22:03:60 INFO  HomePage :100 - selecting mr checkbox....
+2019-03-31 22:03:474 INFO  HomePage :112 - entering firstname firtName
+2019-03-31 22:03:529 INFO  HomePage :118 - entering lastname lastName
+2019-03-31 22:03:594 INFO  HomePage :130 - entering password..password
+2019-03-31 22:03:674 INFO  HomePage :196 - Enetring addressaddress
+2019-03-31 22:03:109 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-03-31 22:03:254 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-03-31 22:03:417 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-03-31 22:03:512 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-03-31 22:03:567 INFO  HomePage :214 - Entering address state Alaska
+2019-03-31 22:03:642 INFO  HomePage :220 - Entering address postal code 99501
+2019-03-31 22:03:687 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-03-31 22:03:765 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-03-31 22:03:838 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (4e84a7bf-11ca-478e-936d-fd16978c3312)] -> xpath: //*[@id='submitAccount']]
+2019-03-31 22:03:527 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (4e84a7bf-11ca-478e-936d-fd16978c3312)] -> xpath: //span[contains(text(),'Order history and details')]] for200 seconds
+2019-03-31 22:03:596 INFO  WaitHelper :148 - element is visible now
+2019-03-31 22:03:596 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-03-31 22:03:751 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-01 10:04:551 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-04-01 10:04:602 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 10:04:627 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 10:04:652 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 10:04:966 INFO  WaitHelper :145 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for200 seconds
+2019-04-01 10:04:207 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-04-01 10:04:215 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 10:04:230 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 10:04:240 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 10:04:984 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (110b8b09-1a91-446a-b924-95cf17d04eb4)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-01 10:04:121 INFO  WaitHelper :148 - element is visible now
+2019-04-01 10:04:121 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-04-01 10:04:561 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-04-01 10:04:587 INFO  LoginPage :72 - Entering email address....prashant@mailinator.com
+2019-04-01 10:04:877 INFO  LoginPage :78 - Entering password....[[FirefoxDriver: firefox on WINDOWS (110b8b09-1a91-446a-b924-95cf17d04eb4)] -> xpath: //input[@name='email']]
+2019-04-01 10:04:987 INFO  LoginPage :84 - Clicking on submit button
+2019-04-01 10:04:987 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 10:04:987 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-01 10:04:16 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (110b8b09-1a91-446a-b924-95cf17d04eb4)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-01 10:04:69 INFO  WaitHelper :148 - element is visible now
+2019-04-01 10:04:69 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-04-01 10:04:209 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-01 10:04:12 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (110b8b09-1a91-446a-b924-95cf17d04eb4)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-01 10:04:77 INFO  WaitHelper :148 - element is visible now
+2019-04-01 10:04:78 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-04-01 10:04:281 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-01 10:04:321 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-01 10:04:815 INFO  VerifyLowestFirstPriceFilter :49 - 16.51
+2019-04-01 10:04:841 INFO  VerifyLowestFirstPriceFilter :49 - 27.00
+2019-04-01 10:04:861 INFO  VerifyLowestFirstPriceFilter :49 - 26.00
+2019-04-01 10:04:886 INFO  VerifyLowestFirstPriceFilter :49 - 50.99
+2019-04-01 10:04:906 INFO  VerifyLowestFirstPriceFilter :49 - 28.98
+2019-04-01 10:04:926 INFO  VerifyLowestFirstPriceFilter :49 - 30.50
+2019-04-01 10:04:951 INFO  VerifyLowestFirstPriceFilter :49 - 16.40
+2019-04-01 10:04:951 INFO  VerifyLowestFirstPriceFilter :55 - [16, 27, 26, 50, 28, 30, 16]
+2019-04-01 10:04:951 INFO  VerifyLowestFirstPriceFilter :63 - obj.get(i):-16
+2019-04-01 10:04:956 INFO  VerifyLowestFirstPriceFilter :64 - obj.get(i+1):-27
+2019-04-01 10:04:33 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-04-01 10:04:45 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 10:04:60 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 10:04:70 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 10:04:231 INFO  WaitHelper :145 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for200 seconds
+2019-04-01 11:04:974 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-04-01 11:04:982 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 11:04:997 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 11:04:07 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 11:04:413 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (ea4f455b-f8f6-47f5-bb88-75d221d38da3)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-01 11:04:497 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:497 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-04-01 11:04:973 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-01 11:04:473 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (ea4f455b-f8f6-47f5-bb88-75d221d38da3)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-01 11:04:518 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:518 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-04-01 11:04:688 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-01 11:04:733 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-01 11:04:91 INFO  ProductCategoryPage :164 - 16.51
+2019-04-01 11:04:108 INFO  ProductCategoryPage :164 - 27.00
+2019-04-01 11:04:122 INFO  ProductCategoryPage :164 - 26.00
+2019-04-01 11:04:137 INFO  ProductCategoryPage :164 - 50.99
+2019-04-01 11:04:147 INFO  ProductCategoryPage :164 - 28.98
+2019-04-01 11:04:157 INFO  ProductCategoryPage :164 - 30.50
+2019-04-01 11:04:167 INFO  ProductCategoryPage :164 - 16.40
+2019-04-01 11:04:167 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-01 11:04:167 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-01 11:04:172 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-01 11:04:420 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-04-01 11:04:514 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 11:04:544 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 11:04:554 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 11:04:75 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (abb21ea9-43aa-4cd0-8337-fd91341dcb9b)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-01 11:04:154 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:154 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-04-01 11:04:634 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-01 11:04:698 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (abb21ea9-43aa-4cd0-8337-fd91341dcb9b)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-01 11:04:755 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:755 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-04-01 11:04:945 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-01 11:04:00 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-01 11:04:366 INFO  ProductCategoryPage :164 - 16.51
+2019-04-01 11:04:380 INFO  ProductCategoryPage :164 - 27.00
+2019-04-01 11:04:390 INFO  ProductCategoryPage :164 - 26.00
+2019-04-01 11:04:400 INFO  ProductCategoryPage :164 - 50.99
+2019-04-01 11:04:410 INFO  ProductCategoryPage :164 - 28.98
+2019-04-01 11:04:425 INFO  ProductCategoryPage :164 - 30.50
+2019-04-01 11:04:440 INFO  ProductCategoryPage :164 - 16.40
+2019-04-01 11:04:440 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-01 11:04:440 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-01 11:04:440 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-01 11:04:272 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-04-01 11:04:278 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 11:04:291 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 11:04:299 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 11:04:963 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (3b542358-baae-4cc4-92a4-c413b4a3e824)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-01 11:04:41 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:41 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-04-01 11:04:573 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-01 11:04:970 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (3b542358-baae-4cc4-92a4-c413b4a3e824)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-01 11:04:16 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:21 INFO  TestBase :157 - Capturing ui navigation screen...
+2019-04-01 11:04:201 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-01 11:04:255 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-01 11:04:612 INFO  ProductCategoryPage :164 - 16.51
+2019-04-01 11:04:630 INFO  ProductCategoryPage :164 - 27.00
+2019-04-01 11:04:640 INFO  ProductCategoryPage :164 - 26.00
+2019-04-01 11:04:655 INFO  ProductCategoryPage :164 - 50.99
+2019-04-01 11:04:670 INFO  ProductCategoryPage :164 - 28.98
+2019-04-01 11:04:685 INFO  ProductCategoryPage :164 - 30.50
+2019-04-01 11:04:700 INFO  ProductCategoryPage :164 - 16.40
+2019-04-01 11:04:700 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-01 11:04:700 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-01 11:04:700 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-01 11:04:360 INFO  TestBase :125 - Initialize Web Driver : 379303133
+2019-04-01 11:04:370 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 11:04:385 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 11:04:390 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 11:04:750 INFO  TestBase :126 - Initialize Web Driver : 221111433
+2019-04-01 11:04:835 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 11:04:851 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 11:04:866 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 11:04:369 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (fd51262f-897e-48e6-ab14-aae0f266dd8e)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-01 11:04:495 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:495 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-01 11:04:495 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:901 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:917 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-04-01 11:04:704 INFO  LoginPage :72 - Entering email address....prashant@mailinator.com
+2019-04-01 11:04:883 INFO  LoginPage :78 - Entering password....[[FirefoxDriver: firefox on WINDOWS (fd51262f-897e-48e6-ab14-aae0f266dd8e)] -> xpath: //input[@name='email']]
+2019-04-01 11:04:977 INFO  LoginPage :84 - Clicking on submit button
+2019-04-01 11:04:977 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:977 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-01 11:04:541 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-01 11:04:340 INFO  TestBase :126 - Initialize Web Driver : 739333799
+2019-04-01 11:04:340 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 11:04:353 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 11:04:369 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 11:04:219 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (117c092a-4114-41c9-ad8e-af054dd98503)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-01 11:04:265 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:265 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-01 11:04:265 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:593 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:608 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-04-01 11:04:580 INFO  LoginPage :96 - Entering registration email....1554099361580@gmail.com
+2019-04-01 11:04:330 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (117c092a-4114-41c9-ad8e-af054dd98503)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-01 11:04:378 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:378 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-01 11:04:378 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:488 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:519 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (117c092a-4114-41c9-ad8e-af054dd98503)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-01 11:04:582 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:582 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-01 11:04:582 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:682 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:684 INFO  HomePage :100 - selecting mr checkbox....
+2019-04-01 11:04:27 INFO  HomePage :112 - entering firstname firtName
+2019-04-01 11:04:90 INFO  HomePage :118 - entering lastname lastName
+2019-04-01 11:04:184 INFO  HomePage :130 - entering password..password
+2019-04-01 11:04:246 INFO  HomePage :196 - Enetring addressaddress
+2019-04-01 11:04:455 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-04-01 11:04:553 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-04-01 11:04:682 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-04-01 11:04:791 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-04-01 11:04:853 INFO  HomePage :214 - Entering address state Alaska
+2019-04-01 11:04:932 INFO  HomePage :220 - Entering address postal code 99501
+2019-04-01 11:04:994 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-04-01 11:04:72 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-04-01 11:04:213 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (117c092a-4114-41c9-ad8e-af054dd98503)] -> xpath: //*[@id='submitAccount']]
+2019-04-01 11:04:229 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (117c092a-4114-41c9-ad8e-af054dd98503)] -> xpath: //span[contains(text(),'Order history and details')]] for200 seconds
+2019-04-01 11:04:270 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:285 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-01 11:04:285 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:379 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:473 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-01 11:04:914 INFO  TestBase :126 - Initialize Web Driver : 1033917063
+2019-04-01 11:04:914 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-01 11:04:923 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-01 11:04:938 INFO  WaitHelper :141 - Page is loaded
+2019-04-01 11:04:238 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (4e38aa0e-a339-4481-9962-7d4c0c7b1abd)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-01 11:04:330 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:330 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-01 11:04:330 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:643 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:690 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-01 11:04:331 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (4e38aa0e-a339-4481-9962-7d4c0c7b1abd)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-01 11:04:372 INFO  WaitHelper :148 - element is visible now
+2019-04-01 11:04:372 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-01 11:04:372 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:529 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-01 11:04:544 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-01 11:04:591 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-01 11:04:987 INFO  ProductCategoryPage :164 - 16.51
+2019-04-01 11:04:991 INFO  ProductCategoryPage :164 - 27.00
+2019-04-01 11:04:07 INFO  ProductCategoryPage :164 - 26.00
+2019-04-01 11:04:22 INFO  ProductCategoryPage :164 - 50.99
+2019-04-01 11:04:22 INFO  ProductCategoryPage :164 - 28.98
+2019-04-01 11:04:38 INFO  ProductCategoryPage :164 - 30.50
+2019-04-01 11:04:53 INFO  ProductCategoryPage :164 - 16.40
+2019-04-01 11:04:53 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-01 11:04:53 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-01 11:04:53 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-02 10:04:952 INFO  ExtentListener :31 - LoginTest Test Started..
+2019-04-02 10:04:275 INFO  TestBase :126 - Initialize Web Driver : 271800170
+2019-04-02 10:04:280 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 10:04:295 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 10:04:300 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 10:04:370 INFO  ExtentListener :55 - testLoginToApplication Test Started..
+2019-04-02 10:04:116 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (4f630cab-cdda-43c0-a8cc-9467bde52a46)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-02 10:04:233 INFO  WaitHelper :148 - element is visible now
+2019-04-02 10:04:233 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 10:04:238 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:638 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:653 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-04-02 10:04:607 INFO  LoginPage :72 - Entering email address....prashant@mailinator.com
+2019-04-02 10:04:846 INFO  LoginPage :78 - Entering password....[[FirefoxDriver: firefox on WINDOWS (4f630cab-cdda-43c0-a8cc-9467bde52a46)] -> xpath: //input[@name='email']]
+2019-04-02 10:04:127 INFO  LoginPage :84 - Clicking on submit button
+2019-04-02 10:04:132 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:132 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-02 10:04:461 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-02 10:04:479 INFO  ExtentListener :61 - testLoginToApplication Test Passed..
+2019-04-02 10:04:638 INFO  ExtentListener :23 - LoginTest Test Finished..
+2019-04-02 10:04:640 INFO  ExtentListener :31 - RegistrationTest Test Started..
+2019-04-02 10:04:615 INFO  TestBase :126 - Initialize Web Driver : 1558763625
+2019-04-02 10:04:615 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 10:04:623 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 10:04:638 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 10:04:663 INFO  ExtentListener :55 - testLoginToApplication Test Started..
+2019-04-02 10:04:464 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (691991b7-e548-434a-9f74-c483bffc4e4b)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-02 10:04:516 INFO  WaitHelper :148 - element is visible now
+2019-04-02 10:04:516 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 10:04:516 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:858 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:873 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-04-02 10:04:759 INFO  LoginPage :96 - Entering registration email....1554182824759@gmail.com
+2019-04-02 10:04:885 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (691991b7-e548-434a-9f74-c483bffc4e4b)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-02 10:04:948 INFO  WaitHelper :148 - element is visible now
+2019-04-02 10:04:948 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 10:04:948 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:117 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:132 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (691991b7-e548-434a-9f74-c483bffc4e4b)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-02 10:04:194 INFO  WaitHelper :148 - element is visible now
+2019-04-02 10:04:194 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 10:04:194 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:278 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:288 INFO  HomePage :100 - selecting mr checkbox....
+2019-04-02 10:04:591 INFO  HomePage :112 - entering firstname firtName
+2019-04-02 10:04:671 INFO  HomePage :118 - entering lastname lastName
+2019-04-02 10:04:783 INFO  HomePage :130 - entering password..password
+2019-04-02 10:04:840 INFO  HomePage :196 - Enetring addressaddress
+2019-04-02 10:04:976 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-04-02 10:04:58 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-04-02 10:04:138 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-04-02 10:04:207 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-04-02 10:04:274 INFO  HomePage :214 - Entering address state Alaska
+2019-04-02 10:04:341 INFO  HomePage :220 - Entering address postal code 99501
+2019-04-02 10:04:445 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-04-02 10:04:525 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-04-02 10:04:599 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (691991b7-e548-434a-9f74-c483bffc4e4b)] -> xpath: //*[@id='submitAccount']]
+2019-04-02 10:04:09 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (691991b7-e548-434a-9f74-c483bffc4e4b)] -> xpath: //span[contains(text(),'Order history and details')]] for200 seconds
+2019-04-02 10:04:57 INFO  WaitHelper :148 - element is visible now
+2019-04-02 10:04:57 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 10:04:57 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:142 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:212 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-02 10:04:227 INFO  ExtentListener :61 - testLoginToApplication Test Passed..
+2019-04-02 10:04:673 INFO  ExtentListener :23 - RegistrationTest Test Finished..
+2019-04-02 10:04:673 INFO  ExtentListener :31 - VerifyLowestFirstPriceFilter Test Started..
+2019-04-02 10:04:100 INFO  TestBase :126 - Initialize Web Driver : 2099051403
+2019-04-02 10:04:100 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 10:04:105 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 10:04:115 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 10:04:130 INFO  ExtentListener :55 - verifyLowestFirstPriceListInProduct_detailsPage Test Started..
+2019-04-02 10:04:41 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (198dffb9-a191-4efb-bf44-abd01544eea0)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-02 10:04:104 INFO  WaitHelper :148 - element is visible now
+2019-04-02 10:04:104 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 10:04:104 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:490 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:530 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-02 10:04:96 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (198dffb9-a191-4efb-bf44-abd01544eea0)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-02 10:04:146 INFO  WaitHelper :148 - element is visible now
+2019-04-02 10:04:146 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 10:04:146 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:311 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 10:04:321 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-02 10:04:381 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-02 10:04:750 INFO  ProductCategoryPage :164 - 16.51
+2019-04-02 10:04:769 INFO  ProductCategoryPage :164 - 27.00
+2019-04-02 10:04:789 INFO  ProductCategoryPage :164 - 26.00
+2019-04-02 10:04:809 INFO  ProductCategoryPage :164 - 50.99
+2019-04-02 10:04:829 INFO  ProductCategoryPage :164 - 28.98
+2019-04-02 10:04:849 INFO  ProductCategoryPage :164 - 30.50
+2019-04-02 10:04:874 INFO  ProductCategoryPage :164 - 16.40
+2019-04-02 10:04:874 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-02 10:04:874 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-02 10:04:879 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-02 10:04:914 ERROR ExtentListener :42 - verifyLowestFirstPriceListInProduct_detailsPage Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 10:04:66 INFO  ExtentListener :23 - VerifyLowestFirstPriceFilter Test Finished..
+2019-04-02 10:04:72 INFO  ExtentListener :31 - A Test Started..
+2019-04-02 10:04:945 INFO  TestBase :126 - Initialize Web Driver : 834466358
+2019-04-02 10:04:945 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 10:04:950 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 10:04:955 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 10:04:960 INFO  ExtentListener :55 - testLoginA Test Started..
+2019-04-02 10:04:965 INFO  ExtentListener :61 - testLoginA Test Passed..
+2019-04-02 10:04:60 INFO  ExtentListener :23 - A Test Finished..
+2019-04-02 10:04:60 INFO  ExtentListener :31 - B Test Started..
+2019-04-02 10:04:872 INFO  TestBase :126 - Initialize Web Driver : 87060781
+2019-04-02 10:04:872 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 10:04:877 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 10:04:887 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 10:04:892 INFO  ExtentListener :55 - testLoginB Test Started..
+2019-04-02 10:04:897 ERROR ExtentListener :42 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 10:04:907 INFO  ExtentListener :23 - B Test Finished..
+2019-04-02 10:04:912 INFO  ExtentListener :31 - C Test Started..
+2019-04-02 10:04:691 INFO  TestBase :126 - Initialize Web Driver : 408069119
+2019-04-02 10:04:691 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 10:04:698 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 10:04:708 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 10:04:726 INFO  ExtentListener :55 - testLoginC Test Started..
+2019-04-02 10:04:726 ERROR ExtentListener :42 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 10:04:384 INFO  ExtentListener :23 - C Test Finished..
+2019-04-02 10:04:384 INFO  ExtentListener :31 - TestScreenShot Test Started..
+2019-04-02 10:04:205 INFO  TestBase :126 - Initialize Web Driver : 768216420
+2019-04-02 10:04:210 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 10:04:219 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 10:04:224 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 10:04:234 INFO  ExtentListener :55 - testScreen Test Started..
+2019-04-02 10:04:227 INFO  ExtentListener :61 - testScreen Test Passed..
+2019-04-02 10:04:295 INFO  ExtentListener :23 - TestScreenShot Test Finished..
+2019-04-02 11:04:91 INFO  TestBase :126 - Initialize Web Driver : 307829448
+2019-04-02 11:04:182 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:197 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:203 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:377 INFO  WaitHelper :145 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Log in to your customer account']' for200 seconds
+2019-04-02 11:04:844 INFO  ExtentListener :31 - LoginTest Test Started..
+2019-04-02 11:04:859 INFO  TestBase :126 - Initialize Web Driver : 271800170
+2019-04-02 11:04:906 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:918 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:924 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:991 INFO  ExtentListener :55 - testLoginToApplication Test Started..
+2019-04-02 11:04:948 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (fa998686-5d53-472a-ba76-c54ea4d887b2)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-02 11:04:26 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:26 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:48 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:513 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:528 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-04-02 11:04:820 INFO  LoginPage :72 - Entering email address....prashant@mailinator.com
+2019-04-02 11:04:928 INFO  LoginPage :78 - Entering password....[[FirefoxDriver: firefox on WINDOWS (fa998686-5d53-472a-ba76-c54ea4d887b2)] -> xpath: //input[@name='email']]
+2019-04-02 11:04:582 INFO  LoginPage :84 - Clicking on submit button
+2019-04-02 11:04:583 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:585 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-02 11:04:149 INFO  TestBase :126 - Initialize Web Driver : 324404955
+2019-04-02 11:04:150 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:160 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:168 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:881 ERROR VerificationHelper :26 - element is not displayed null
+2019-04-02 11:04:937 ERROR ExtentListener :42 - testLoginToApplication Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 11:04:631 INFO  ExtentListener :23 - LoginTest Test Finished..
+2019-04-02 11:04:632 INFO  ExtentListener :31 - RegistrationTest Test Started..
+2019-04-02 11:04:443 INFO  TestBase :126 - Initialize Web Driver : 859236022
+2019-04-02 11:04:444 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:451 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:456 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:464 INFO  ExtentListener :55 - testLoginToApplication Test Started..
+2019-04-02 11:04:744 ERROR ExtentListener :42 - testLoginToApplication Test Failed..org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PRASHANT', ip: '192.168.1.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 65.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 2776, moz:profile: C:\Users\Prashant Lowanshi\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f4f4f119-df77-4ad9-9943-0582d0ffd5d2
+*** Element info: {Using=xpath, value=//a[@title='Log in to your customer account']}
+2019-04-02 11:04:797 INFO  ExtentListener :23 - RegistrationTest Test Finished..
+2019-04-02 11:04:797 INFO  ExtentListener :31 - VerifyLowestFirstPriceFilter Test Started..
+2019-04-02 11:04:899 INFO  TestBase :126 - Initialize Web Driver : 1856158867
+2019-04-02 11:04:899 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:907 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:914 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:922 INFO  ExtentListener :55 - verifyLowestFirstPriceListInProduct_detailsPage Test Started..
+2019-04-02 11:04:902 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (195ff554-024a-43b8-b4d5-e402a309f2a6)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-02 11:04:902 INFO  ExtentListener :31 - LoginTest Test Started..
+2019-04-02 11:04:26 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:27 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:28 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:545 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:607 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-02 11:04:231 INFO  TestBase :126 - Initialize Web Driver : 271800170
+2019-04-02 11:04:324 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (195ff554-024a-43b8-b4d5-e402a309f2a6)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-02 11:04:329 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:348 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:353 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:402 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:407 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:407 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:447 INFO  ExtentListener :55 - testLoginToApplication Test Started..
+2019-04-02 11:04:694 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:710 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-02 11:04:773 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-02 11:04:139 INFO  ProductCategoryPage :164 - 16.51
+2019-04-02 11:04:152 INFO  ProductCategoryPage :164 - 27.00
+2019-04-02 11:04:163 INFO  ProductCategoryPage :164 - 26.00
+2019-04-02 11:04:174 INFO  ProductCategoryPage :164 - 50.99
+2019-04-02 11:04:183 INFO  ProductCategoryPage :164 - 28.98
+2019-04-02 11:04:197 INFO  ProductCategoryPage :164 - 30.50
+2019-04-02 11:04:209 INFO  ProductCategoryPage :164 - 16.40
+2019-04-02 11:04:209 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-02 11:04:210 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-02 11:04:210 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-02 11:04:211 ERROR ExtentListener :42 - verifyLowestFirstPriceListInProduct_detailsPage Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 11:04:803 INFO  ExtentListener :23 - VerifyLowestFirstPriceFilter Test Finished..
+2019-04-02 11:04:803 INFO  ExtentListener :31 - A Test Started..
+2019-04-02 11:04:126 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (1721f15c-5b3e-4075-9d46-85df52602bf9)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-02 11:04:215 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:215 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:222 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:739 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:753 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-04-02 11:04:46 INFO  LoginPage :72 - Entering email address....prashant@mailinator.com
+2019-04-02 11:04:223 INFO  LoginPage :78 - Entering password....[[FirefoxDriver: firefox on WINDOWS (1721f15c-5b3e-4075-9d46-85df52602bf9)] -> xpath: //input[@name='email']]
+2019-04-02 11:04:943 INFO  TestBase :126 - Initialize Web Driver : 2010545395
+2019-04-02 11:04:943 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:953 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:963 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:972 INFO  ExtentListener :55 - testLoginA Test Started..
+2019-04-02 11:04:977 INFO  ExtentListener :61 - testLoginA Test Passed..
+2019-04-02 11:04:423 INFO  ExtentListener :23 - A Test Finished..
+2019-04-02 11:04:423 INFO  ExtentListener :31 - B Test Started..
+2019-04-02 11:04:131 INFO  LoginPage :84 - Clicking on submit button
+2019-04-02 11:04:131 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:136 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-02 11:04:81 INFO  TestBase :126 - Initialize Web Driver : 1450500594
+2019-04-02 11:04:81 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:96 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:111 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:121 INFO  ExtentListener :55 - testLoginB Test Started..
+2019-04-02 11:04:121 ERROR ExtentListener :42 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 11:04:941 INFO  ExtentListener :23 - B Test Finished..
+2019-04-02 11:04:942 INFO  ExtentListener :31 - C Test Started..
+2019-04-02 11:04:600 INFO  TestBase :126 - Initialize Web Driver : 2044282225
+2019-04-02 11:04:600 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:610 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:620 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:645 INFO  ExtentListener :55 - testLoginC Test Started..
+2019-04-02 11:04:650 ERROR ExtentListener :42 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 11:04:213 INFO  ExtentListener :23 - C Test Finished..
+2019-04-02 11:04:218 INFO  ExtentListener :31 - TestScreenShot Test Started..
+2019-04-02 11:04:221 INFO  TestBase :126 - Initialize Web Driver : 768216420
+2019-04-02 11:04:221 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:231 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:236 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:241 INFO  ExtentListener :55 - testScreen Test Started..
+2019-04-02 11:04:497 INFO  ExtentListener :61 - testScreen Test Passed..
+2019-04-02 11:04:911 INFO  ExtentListener :23 - TestScreenShot Test Finished..
+2019-04-02 11:04:149 ERROR VerificationHelper :26 - element is not displayed null
+2019-04-02 11:04:156 ERROR ExtentListener :42 - testLoginToApplication Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 11:04:529 INFO  ExtentListener :23 - LoginTest Test Finished..
+2019-04-02 11:04:530 INFO  ExtentListener :31 - RegistrationTest Test Started..
+2019-04-02 11:04:419 INFO  TestBase :126 - Initialize Web Driver : 393996856
+2019-04-02 11:04:424 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:428 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:443 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:453 INFO  ExtentListener :55 - testLoginToApplication Test Started..
+2019-04-02 11:04:540 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (16a2d78b-0b9f-467b-8c50-355d3a877493)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-02 11:04:590 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:590 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:590 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:896 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:906 INFO  LoginPage :66 - Clicked on sign in link ...
+2019-04-02 11:04:944 INFO  LoginPage :96 - Entering registration email....1554184660944@gmail.com
+2019-04-02 11:04:285 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (16a2d78b-0b9f-467b-8c50-355d3a877493)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-02 11:04:347 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:352 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:352 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:437 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:467 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (16a2d78b-0b9f-467b-8c50-355d3a877493)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-02 11:04:522 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:522 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:522 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:616 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:631 INFO  HomePage :100 - selecting mr checkbox....
+2019-04-02 11:04:956 INFO  HomePage :112 - entering firstname firtName
+2019-04-02 11:04:16 INFO  HomePage :118 - entering lastname lastName
+2019-04-02 11:04:91 INFO  HomePage :130 - entering password..password
+2019-04-02 11:04:146 INFO  HomePage :196 - Enetring addressaddress
+2019-04-02 11:04:323 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-04-02 11:04:459 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-04-02 11:04:569 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-04-02 11:04:654 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-04-02 11:04:699 INFO  HomePage :214 - Entering address state Alaska
+2019-04-02 11:04:759 INFO  HomePage :220 - Entering address postal code 99501
+2019-04-02 11:04:809 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-04-02 11:04:864 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-04-02 11:04:939 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (16a2d78b-0b9f-467b-8c50-355d3a877493)] -> xpath: //*[@id='submitAccount']]
+2019-04-02 11:04:597 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (16a2d78b-0b9f-467b-8c50-355d3a877493)] -> xpath: //span[contains(text(),'Order history and details')]] for200 seconds
+2019-04-02 11:04:665 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:665 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:665 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:750 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:820 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-02 11:04:845 INFO  ExtentListener :61 - testLoginToApplication Test Passed..
+2019-04-02 11:04:313 INFO  ExtentListener :23 - RegistrationTest Test Finished..
+2019-04-02 11:04:313 INFO  ExtentListener :31 - VerifyLowestFirstPriceFilter Test Started..
+2019-04-02 11:04:640 INFO  TestBase :126 - Initialize Web Driver : 1260217713
+2019-04-02 11:04:640 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:652 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:662 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:682 INFO  ExtentListener :55 - verifyLowestFirstPriceListInProduct_detailsPage Test Started..
+2019-04-02 11:04:550 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (08bc902d-088a-4c41-aea1-7bb7f03535d2)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-02 11:04:600 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:600 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:600 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:910 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:960 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-02 11:04:41 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (08bc902d-088a-4c41-aea1-7bb7f03535d2)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-02 11:04:82 INFO  WaitHelper :148 - element is visible now
+2019-04-02 11:04:82 INFO  TestBase :158 - Capturing ui navigation screen...
+2019-04-02 11:04:82 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:257 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-02 11:04:282 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-02 11:04:322 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-02 11:04:682 INFO  ProductCategoryPage :164 - 16.51
+2019-04-02 11:04:695 INFO  ProductCategoryPage :164 - 27.00
+2019-04-02 11:04:705 INFO  ProductCategoryPage :164 - 26.00
+2019-04-02 11:04:715 INFO  ProductCategoryPage :164 - 50.99
+2019-04-02 11:04:725 INFO  ProductCategoryPage :164 - 28.98
+2019-04-02 11:04:735 INFO  ProductCategoryPage :164 - 30.50
+2019-04-02 11:04:745 INFO  ProductCategoryPage :164 - 16.40
+2019-04-02 11:04:745 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-02 11:04:745 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-02 11:04:745 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-02 11:04:750 ERROR ExtentListener :42 - verifyLowestFirstPriceListInProduct_detailsPage Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 11:04:588 INFO  ExtentListener :23 - VerifyLowestFirstPriceFilter Test Finished..
+2019-04-02 11:04:589 INFO  ExtentListener :31 - A Test Started..
+2019-04-02 11:04:399 INFO  TestBase :126 - Initialize Web Driver : 1450500594
+2019-04-02 11:04:399 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:402 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:412 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:422 INFO  ExtentListener :55 - testLoginA Test Started..
+2019-04-02 11:04:422 INFO  ExtentListener :61 - testLoginA Test Passed..
+2019-04-02 11:04:209 INFO  ExtentListener :23 - A Test Finished..
+2019-04-02 11:04:214 INFO  ExtentListener :31 - B Test Started..
+2019-04-02 11:04:41 INFO  TestBase :126 - Initialize Web Driver : 1305486145
+2019-04-02 11:04:42 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:49 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:54 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:60 INFO  ExtentListener :55 - testLoginB Test Started..
+2019-04-02 11:04:61 ERROR ExtentListener :42 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 11:04:18 INFO  ExtentListener :23 - B Test Finished..
+2019-04-02 11:04:18 INFO  ExtentListener :31 - C Test Started..
+2019-04-02 11:04:845 INFO  TestBase :126 - Initialize Web Driver : 1238616099
+2019-04-02 11:04:845 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:863 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:873 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:893 INFO  ExtentListener :55 - testLoginC Test Started..
+2019-04-02 11:04:893 ERROR ExtentListener :42 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-02 11:04:574 INFO  ExtentListener :23 - C Test Finished..
+2019-04-02 11:04:574 INFO  ExtentListener :31 - TestScreenShot Test Started..
+2019-04-02 11:04:362 INFO  TestBase :126 - Initialize Web Driver : 1831010686
+2019-04-02 11:04:362 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-02 11:04:367 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-02 11:04:372 INFO  WaitHelper :141 - Page is loaded
+2019-04-02 11:04:377 INFO  ExtentListener :55 - testScreen Test Started..
+2019-04-02 11:04:474 INFO  ExtentListener :61 - testScreen Test Passed..
+2019-04-02 11:04:825 INFO  ExtentListener :23 - TestScreenShot Test Finished..
+2019-04-03 10:04:89 INFO  TestBase :123 - Initialize Web Driver : 220454978
+2019-04-03 10:04:153 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-03 10:04:488 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-03 10:04:513 INFO  WaitHelper :141 - Page is loaded
+2019-04-03 10:04:957 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (c118cbc0-e37c-48c2-9fd3-fc6c9524f71f)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 10:04:64 INFO  WaitHelper :148 - element is visible now
+2019-04-03 10:04:64 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-03 10:04:64 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:504 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:549 INFO  TestBase :178 - excel location C:\ProgFiles\workspace\uiFramework/src/main/resources/configfile/testData.xlsx
+2019-04-03 10:04:804 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-03 10:04:683 INFO  LoginPage :75 - Entering email address....1529@gmail.com
+2019-04-03 10:04:898 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (c118cbc0-e37c-48c2-9fd3-fc6c9524f71f)] -> xpath: //input[@name='email']]
+2019-04-03 10:04:988 INFO  LoginPage :87 - Clicking on submit button
+2019-04-03 10:04:988 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:988 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-03 10:04:508 ERROR VerificationHelper :26 - element is not displayed null
+2019-04-03 10:04:307 ERROR VerificationHelper :26 - element is not displayed null
+2019-04-03 10:04:347 INFO  TestBase :123 - Initialize Web Driver : 1188401255
+2019-04-03 10:04:354 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-03 10:04:367 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-03 10:04:372 INFO  WaitHelper :141 - Page is loaded
+2019-04-03 10:04:798 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (56cfab4a-2945-43d6-a289-8781dcdd9a49)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 10:04:883 INFO  WaitHelper :148 - element is visible now
+2019-04-03 10:04:883 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-03 10:04:888 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:293 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:313 INFO  TestBase :178 - excel location C:\ProgFiles\workspace\uiFramework/src/main/resources/configfile/testData.xlsx
+2019-04-03 10:04:274 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-03 10:04:11 INFO  LoginPage :75 - Entering email address....xyz1529@gmail.com
+2019-04-03 10:04:165 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (56cfab4a-2945-43d6-a289-8781dcdd9a49)] -> xpath: //input[@name='email']]
+2019-04-03 10:04:265 INFO  LoginPage :87 - Clicking on submit button
+2019-04-03 10:04:265 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:265 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-03 10:04:504 ERROR VerificationHelper :26 - element is not displayed null
+2019-04-03 10:04:215 ERROR VerificationHelper :26 - element is not displayed null
+2019-04-03 10:04:590 INFO  TestBase :123 - Initialize Web Driver : 1188401255
+2019-04-03 10:04:599 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-03 10:04:609 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-03 10:04:619 INFO  WaitHelper :141 - Page is loaded
+2019-04-03 10:04:535 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (2d2b8126-b812-40f6-a16e-bafc4696e6d3)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 10:04:638 INFO  WaitHelper :148 - element is visible now
+2019-04-03 10:04:638 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-03 10:04:643 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:135 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:155 INFO  TestBase :178 - excel location C:\ProgFiles\workspace\uiFramework/src/main/resources/configfile/testData.xlsx
+2019-04-03 10:04:944 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-03 10:04:381 INFO  LoginPage :75 - Entering email address....Prashant@mailinator.com
+2019-04-03 10:04:574 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (2d2b8126-b812-40f6-a16e-bafc4696e6d3)] -> xpath: //input[@name='email']]
+2019-04-03 10:04:669 INFO  LoginPage :87 - Clicking on submit button
+2019-04-03 10:04:669 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:669 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-03 10:04:630 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 10:04:720 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 10:04:617 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (2d2b8126-b812-40f6-a16e-bafc4696e6d3)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 10:04:673 INFO  WaitHelper :148 - element is visible now
+2019-04-03 10:04:361 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-03 10:04:37 INFO  LoginPage :75 - Entering email address....Prashant@mailinator.com
+2019-04-03 10:04:175 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (2d2b8126-b812-40f6-a16e-bafc4696e6d3)] -> xpath: //input[@name='email']]
+2019-04-03 10:04:275 INFO  LoginPage :87 - Clicking on submit button
+2019-04-03 10:04:275 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:275 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-03 10:04:217 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 10:04:287 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 10:04:528 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (2d2b8126-b812-40f6-a16e-bafc4696e6d3)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 10:04:584 INFO  WaitHelper :148 - element is visible now
+2019-04-03 10:04:85 INFO  TestBase :123 - Initialize Web Driver : 983595261
+2019-04-03 10:04:107 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-03 10:04:122 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-03 10:04:127 INFO  WaitHelper :141 - Page is loaded
+2019-04-03 10:04:880 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (45903e5b-a0de-4ff8-910c-3e18fb716dd7)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 10:04:963 INFO  WaitHelper :148 - element is visible now
+2019-04-03 10:04:963 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-03 10:04:963 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:343 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:363 INFO  TestBase :178 - excel location C:\ProgFiles\workspace\uiFramework/src/main/resources/configfile/testData.xlsx
+2019-04-03 10:04:195 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-03 10:04:885 INFO  LoginPage :75 - Entering email address....Prashant@mailinator.com
+2019-04-03 10:04:60 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (45903e5b-a0de-4ff8-910c-3e18fb716dd7)] -> xpath: //input[@name='email']]
+2019-04-03 10:04:155 INFO  LoginPage :87 - Clicking on submit button
+2019-04-03 10:04:155 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:155 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-03 10:04:218 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 10:04:311 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 10:04:323 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (45903e5b-a0de-4ff8-910c-3e18fb716dd7)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 10:04:421 INFO  WaitHelper :148 - element is visible now
+2019-04-03 10:04:951 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-03 10:04:666 INFO  LoginPage :75 - Entering email address....Prashant@mailinator.com
+2019-04-03 10:04:827 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (45903e5b-a0de-4ff8-910c-3e18fb716dd7)] -> xpath: //input[@name='email']]
+2019-04-03 10:04:927 INFO  LoginPage :87 - Clicking on submit button
+2019-04-03 10:04:927 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 10:04:927 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-03 10:04:73 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 10:04:164 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 10:04:677 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (45903e5b-a0de-4ff8-910c-3e18fb716dd7)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 10:04:742 INFO  WaitHelper :148 - element is visible now
+2019-04-03 11:04:832 INFO  TestBase :123 - Initialize Web Driver : 1188401255
+2019-04-03 11:04:841 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-03 11:04:851 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-03 11:04:861 INFO  WaitHelper :141 - Page is loaded
+2019-04-03 11:04:14 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (ec6bb9de-e5fb-4416-ae9f-7ed87ddb1b18)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 11:04:103 INFO  WaitHelper :148 - element is visible now
+2019-04-03 11:04:103 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-03 11:04:103 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 11:04:552 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 11:04:572 INFO  TestBase :178 - excel location C:\ProgFiles\workspace\uiFramework/src/main/resources/configfile/testData.xlsx
+2019-04-03 11:04:591 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-03 11:04:202 INFO  LoginPage :75 - Entering email address....Prashant@mailinator.com
+2019-04-03 11:04:374 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (ec6bb9de-e5fb-4416-ae9f-7ed87ddb1b18)] -> xpath: //input[@name='email']]
+2019-04-03 11:04:464 INFO  LoginPage :87 - Clicking on submit button
+2019-04-03 11:04:464 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 11:04:464 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-03 11:04:728 INFO  LoginPage :94 - ................User is logged in..............
+2019-04-03 11:04:825 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 11:04:850 INFO  LoginPage :94 - ................User is logged in..............
+2019-04-03 11:04:930 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 11:04:380 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (ec6bb9de-e5fb-4416-ae9f-7ed87ddb1b18)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 11:04:456 INFO  WaitHelper :148 - element is visible now
+2019-04-03 11:04:16 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-03 11:04:476 INFO  LoginPage :75 - Entering email address....Prashant@mailinator.com
+2019-04-03 11:04:657 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (ec6bb9de-e5fb-4416-ae9f-7ed87ddb1b18)] -> xpath: //input[@name='email']]
+2019-04-03 11:04:760 INFO  LoginPage :87 - Clicking on submit button
+2019-04-03 11:04:760 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-03 11:04:761 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-03 11:04:265 INFO  LoginPage :94 - ................User is logged in..............
+2019-04-03 11:04:365 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 11:04:385 INFO  LoginPage :94 - ................User is logged in..............
+2019-04-03 11:04:445 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-03 11:04:296 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (ec6bb9de-e5fb-4416-ae9f-7ed87ddb1b18)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-03 11:04:362 INFO  WaitHelper :148 - element is visible now
+2019-04-05 10:04:772 INFO  ExtentListener :31 - LoginTest Test Started..
+2019-04-05 10:04:888 INFO  TestBase :123 - Initialize Web Driver : 611520720
+2019-04-05 10:04:900 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-05 10:04:68 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-05 10:04:83 INFO  WaitHelper :141 - Page is loaded
+2019-04-05 10:04:569 INFO  ExtentListener :55 - testLoginToApplication Test Started..
+2019-04-05 10:04:830 INFO  WaitHelper :145 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Log in to your customer account']' for200 seconds
+2019-04-05 10:04:520 ERROR ExtentListener :42 - testLoginToApplication Test Failed..org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Log in to your customer account']' (tried for 200 second(s) with 500 milliseconds interval)
+2019-04-05 10:04:28 INFO  ExtentListener :23 - LoginTest Test Finished..
+2019-04-05 10:04:28 INFO  ExtentListener :31 - RegistrationTest Test Started..
+2019-04-05 10:04:464 INFO  TestBase :123 - Initialize Web Driver : 192694377
+2019-04-05 10:04:468 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-05 10:04:480 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-05 10:04:488 INFO  WaitHelper :141 - Page is loaded
+2019-04-05 10:04:500 INFO  ExtentListener :55 - testLoginToApplication Test Started..
+2019-04-05 10:04:307 INFO  WaitHelper :145 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Log in to your customer account']' for200 seconds
+2019-04-05 10:04:681 ERROR ExtentListener :42 - testLoginToApplication Test Failed..org.openqa.selenium.WebDriverException: Failed to convert data to an object
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'PRASHANT', ip: '192.168.1.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 66.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 5732, moz:profile: C:\Users\Prashant Lowanshi\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5eca86a4-80bd-4332-921f-139550a5f314
+*** Element info: {Using=xpath, value=//a[@title='Log in to your customer account']}
+2019-04-05 10:04:897 INFO  ExtentListener :23 - RegistrationTest Test Finished..
+2019-04-05 10:04:906 INFO  ExtentListener :31 - VerifyLowestFirstPriceFilter Test Started..
+2019-04-05 10:04:631 INFO  TestBase :123 - Initialize Web Driver : 2111457497
+2019-04-05 10:04:631 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-05 10:04:639 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-05 10:04:647 INFO  WaitHelper :141 - Page is loaded
+2019-04-05 10:04:663 INFO  ExtentListener :55 - verifyLowestFirstPriceListInProduct_detailsPage Test Started..
+2019-04-05 10:04:578 INFO  WaitHelper :145 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for200 seconds
+2019-04-06 18:04:440 INFO  ExtentListener :31 - A Test Started..
+2019-04-06 18:04:609 INFO  TestBase :123 - Initialize Web Driver : 1855610584
+2019-04-06 18:04:678 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:56 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:65 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:443 INFO  ExtentListener :55 - testLoginA Test Started..
+2019-04-06 18:04:469 INFO  ExtentListener :61 - testLoginA Test Passed..
+2019-04-06 18:04:72 INFO  ExtentListener :23 - A Test Finished..
+2019-04-06 18:04:75 INFO  ExtentListener :31 - B Test Started..
+2019-04-06 18:04:403 INFO  TestBase :123 - Initialize Web Driver : 951221468
+2019-04-06 18:04:403 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:415 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:436 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:447 INFO  ExtentListener :55 - testLoginB Test Started..
+2019-04-06 18:04:535 ERROR ExtentListener :42 - testLoginB Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-06 18:04:800 INFO  ExtentListener :23 - B Test Finished..
+2019-04-06 18:04:805 INFO  ExtentListener :31 - C Test Started..
+2019-04-06 18:04:704 INFO  TestBase :123 - Initialize Web Driver : 1361817590
+2019-04-06 18:04:705 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:712 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:718 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:734 INFO  ExtentListener :55 - testLoginC Test Started..
+2019-04-06 18:04:735 ERROR ExtentListener :42 - testLoginC Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-04-06 18:04:330 INFO  ExtentListener :23 - C Test Finished..
+2019-04-06 18:04:331 INFO  ExtentListener :31 - TestScreenShot Test Started..
+2019-04-06 18:04:722 INFO  TestBase :123 - Initialize Web Driver : 1277108979
+2019-04-06 18:04:722 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:734 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:739 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:747 INFO  ExtentListener :55 - testScreen Test Started..
+2019-04-06 18:04:52 INFO  ExtentListener :61 - testScreen Test Passed..
+2019-04-06 18:04:723 INFO  ExtentListener :23 - TestScreenShot Test Finished..
+2019-04-06 18:04:772 INFO  TestBase :123 - Initialize Web Driver : 1873091796
+2019-04-06 18:04:882 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:913 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:928 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:894 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (43ef1f7c-63d1-4839-abac-50dfe5d32feb)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-06 18:04:80 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:80 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:112 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:565 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:581 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-06 18:04:77 INFO  LoginPage :75 - Entering email address....prashant@mailinator.com
+2019-04-06 18:04:293 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (43ef1f7c-63d1-4839-abac-50dfe5d32feb)] -> xpath: //input[@name='email']]
+2019-04-06 18:04:409 INFO  LoginPage :87 - Clicking on submit button
+2019-04-06 18:04:409 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:409 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-06 18:04:739 INFO  LoginPage :94 - ................User is logged in..............
+2019-04-06 18:04:975 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-06 18:04:646 INFO  TestBase :123 - Initialize Web Driver : 240630125
+2019-04-06 18:04:647 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:655 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:660 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:190 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (674d3586-72b8-4e1b-bf2e-b95dd74fca69)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-06 18:04:307 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:307 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:307 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:637 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:647 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-06 18:04:555 INFO  LoginPage :101 - Entering registration email....1554555068555@gmail.com
+2019-04-06 18:04:193 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (674d3586-72b8-4e1b-bf2e-b95dd74fca69)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-06 18:04:279 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:279 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:279 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:363 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:394 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (674d3586-72b8-4e1b-bf2e-b95dd74fca69)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-06 18:04:457 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:457 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:458 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:541 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:550 INFO  HomePage :100 - selecting mr checkbox....
+2019-04-06 18:04:933 INFO  HomePage :112 - entering firstname firtName
+2019-04-06 18:04:981 INFO  HomePage :118 - entering lastname lastName
+2019-04-06 18:04:167 INFO  HomePage :130 - entering password..password
+2019-04-06 18:04:222 INFO  HomePage :196 - Enetring addressaddress
+2019-04-06 18:04:844 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-04-06 18:04:940 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-04-06 18:04:46 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-04-06 18:04:113 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-04-06 18:04:167 INFO  HomePage :214 - Entering address state Alaska
+2019-04-06 18:04:253 INFO  HomePage :220 - Entering address postal code 99501
+2019-04-06 18:04:283 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-04-06 18:04:368 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-04-06 18:04:451 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (674d3586-72b8-4e1b-bf2e-b95dd74fca69)] -> xpath: //*[@id='submitAccount']]
+2019-04-06 18:04:835 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (674d3586-72b8-4e1b-bf2e-b95dd74fca69)] -> xpath: //span[contains(text(),'Order history and details')]] for200 seconds
+2019-04-06 18:04:876 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:876 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:876 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:962 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:53 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-06 18:04:357 INFO  TestBase :123 - Initialize Web Driver : 861623840
+2019-04-06 18:04:357 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:363 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:372 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:125 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (bc0ab528-8a37-432b-9020-2344f2b0d0be)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-06 18:04:170 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:170 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:170 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:455 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:527 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-06 18:04:651 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (bc0ab528-8a37-432b-9020-2344f2b0d0be)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-06 18:04:697 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:697 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:697 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:865 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:912 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-06 18:04:11 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-06 18:04:445 INFO  ProductCategoryPage :164 - 16.51
+2019-04-06 18:04:456 INFO  ProductCategoryPage :164 - 27.00
+2019-04-06 18:04:457 INFO  ProductCategoryPage :164 - 26.00
+2019-04-06 18:04:473 INFO  ProductCategoryPage :164 - 50.99
+2019-04-06 18:04:488 INFO  ProductCategoryPage :164 - 28.98
+2019-04-06 18:04:488 INFO  ProductCategoryPage :164 - 30.50
+2019-04-06 18:04:504 INFO  ProductCategoryPage :164 - 16.40
+2019-04-06 18:04:504 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-06 18:04:504 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-06 18:04:504 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-06 18:04:905 INFO  TestBase :123 - Initialize Web Driver : 1873091796
+2019-04-06 18:04:67 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:130 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:141 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:654 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (b12de18e-9950-421d-b7ad-4086cdacc0d5)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-06 18:04:759 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:759 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:759 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:191 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:231 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-06 18:04:32 INFO  LoginPage :75 - Entering email address....prashant@mailinator.com
+2019-04-06 18:04:199 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (b12de18e-9950-421d-b7ad-4086cdacc0d5)] -> xpath: //input[@name='email']]
+2019-04-06 18:04:300 INFO  LoginPage :87 - Clicking on submit button
+2019-04-06 18:04:300 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:300 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-06 18:04:197 INFO  LoginPage :94 - ................User is logged in..............
+2019-04-06 18:04:319 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-06 18:04:944 INFO  TestBase :123 - Initialize Web Driver : 240630125
+2019-04-06 18:04:945 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:951 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:956 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:292 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (063c2e09-b651-4c5a-9985-23deb2312b0d)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-06 18:04:421 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:422 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:422 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:729 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:739 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-06 18:04:483 INFO  LoginPage :101 - Entering registration email....1554556155483@gmail.com
+2019-04-06 18:04:458 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (063c2e09-b651-4c5a-9985-23deb2312b0d)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-06 18:04:505 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:505 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:505 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:604 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:644 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (063c2e09-b651-4c5a-9985-23deb2312b0d)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-06 18:04:674 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:690 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:690 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:789 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:804 INFO  HomePage :100 - selecting mr checkbox....
+2019-04-06 18:04:135 INFO  HomePage :112 - entering firstname firtName
+2019-04-06 18:04:189 INFO  HomePage :118 - entering lastname lastName
+2019-04-06 18:04:258 INFO  HomePage :130 - entering password..password
+2019-04-06 18:04:350 INFO  HomePage :196 - Enetring addressaddress
+2019-04-06 18:04:551 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-04-06 18:04:656 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-04-06 18:04:806 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-04-06 18:04:894 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-04-06 18:04:959 INFO  HomePage :214 - Entering address state Alaska
+2019-04-06 18:04:38 INFO  HomePage :220 - Entering address postal code 99501
+2019-04-06 18:04:75 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-04-06 18:04:162 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-04-06 18:04:247 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (063c2e09-b651-4c5a-9985-23deb2312b0d)] -> xpath: //*[@id='submitAccount']]
+2019-04-06 18:04:883 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (063c2e09-b651-4c5a-9985-23deb2312b0d)] -> xpath: //span[contains(text(),'Order history and details')]] for200 seconds
+2019-04-06 18:04:961 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:962 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:962 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:43 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:116 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-06 18:04:165 INFO  TestBase :123 - Initialize Web Driver : 861623840
+2019-04-06 18:04:165 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:181 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:196 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:463 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (89fefa92-f883-40aa-bcfa-7c0a8a6d873a)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-06 18:04:510 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:510 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:510 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:836 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:864 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-06 18:04:65 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (89fefa92-f883-40aa-bcfa-7c0a8a6d873a)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-06 18:04:130 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:131 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:132 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:379 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:394 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-06 18:04:450 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-06 18:04:802 INFO  ProductCategoryPage :164 - 16.51
+2019-04-06 18:04:817 INFO  ProductCategoryPage :164 - 27.00
+2019-04-06 18:04:817 INFO  ProductCategoryPage :164 - 26.00
+2019-04-06 18:04:842 INFO  ProductCategoryPage :164 - 50.99
+2019-04-06 18:04:853 INFO  ProductCategoryPage :164 - 28.98
+2019-04-06 18:04:866 INFO  ProductCategoryPage :164 - 30.50
+2019-04-06 18:04:871 INFO  ProductCategoryPage :164 - 16.40
+2019-04-06 18:04:871 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-06 18:04:871 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-06 18:04:871 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-06 18:04:114 INFO  TestBase :123 - Initialize Web Driver : 1076641925
+2019-04-06 18:04:226 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:245 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:251 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:229 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (3adcad68-2750-480c-8057-ac20fb2c0c68)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-06 18:04:334 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:335 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:346 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:795 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:820 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-06 18:04:856 INFO  LoginPage :75 - Entering email address....prashant@mailinator.com
+2019-04-06 18:04:38 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (3adcad68-2750-480c-8057-ac20fb2c0c68)] -> xpath: //input[@name='email']]
+2019-04-06 18:04:128 INFO  LoginPage :87 - Clicking on submit button
+2019-04-06 18:04:128 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:129 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-06 18:04:333 INFO  LoginPage :94 - ................User is logged in..............
+2019-04-06 18:04:420 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-06 18:04:481 INFO  TestBase :123 - Initialize Web Driver : 738677855
+2019-04-06 18:04:481 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:518 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:525 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:127 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (a78f68d2-d6d2-47d2-9ee9-3567962fa379)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-06 18:04:169 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:169 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:169 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:496 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:518 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-06 18:04:989 INFO  LoginPage :101 - Entering registration email....1554556511989@gmail.com
+2019-04-06 18:04:991 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (a78f68d2-d6d2-47d2-9ee9-3567962fa379)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-06 18:04:60 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:60 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:60 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:212 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:228 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (a78f68d2-d6d2-47d2-9ee9-3567962fa379)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-06 18:04:261 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:276 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:276 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:361 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:377 INFO  HomePage :100 - selecting mr checkbox....
+2019-04-06 18:04:729 INFO  HomePage :112 - entering firstname firtName
+2019-04-06 18:04:777 INFO  HomePage :118 - entering lastname lastName
+2019-04-06 18:04:861 INFO  HomePage :130 - entering password..password
+2019-04-06 18:04:951 INFO  HomePage :196 - Enetring addressaddress
+2019-04-06 18:04:128 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-04-06 18:04:254 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-04-06 18:04:356 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-04-06 18:04:452 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-04-06 18:04:520 INFO  HomePage :214 - Entering address state Alaska
+2019-04-06 18:04:574 INFO  HomePage :220 - Entering address postal code 99501
+2019-04-06 18:04:645 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-04-06 18:04:721 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-04-06 18:04:789 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (a78f68d2-d6d2-47d2-9ee9-3567962fa379)] -> xpath: //*[@id='submitAccount']]
+2019-04-06 18:04:544 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (a78f68d2-d6d2-47d2-9ee9-3567962fa379)] -> xpath: //span[contains(text(),'Order history and details')]] for200 seconds
+2019-04-06 18:04:596 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:596 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:596 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:695 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:760 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-06 18:04:830 INFO  TestBase :123 - Initialize Web Driver : 1511909371
+2019-04-06 18:04:830 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-06 18:04:836 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-06 18:04:842 INFO  WaitHelper :141 - Page is loaded
+2019-04-06 18:04:383 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (792d3cac-2bc9-4ced-999b-275956d0b32e)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-06 18:04:498 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:498 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:498 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:837 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:899 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-06 18:04:275 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (792d3cac-2bc9-4ced-999b-275956d0b32e)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-06 18:04:336 INFO  WaitHelper :148 - element is visible now
+2019-04-06 18:04:337 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-06 18:04:337 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:490 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-06 18:04:514 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-06 18:04:545 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-06 18:04:926 INFO  ProductCategoryPage :164 - 16.51
+2019-04-06 18:04:939 INFO  ProductCategoryPage :164 - 27.00
+2019-04-06 18:04:949 INFO  ProductCategoryPage :164 - 26.00
+2019-04-06 18:04:953 INFO  ProductCategoryPage :164 - 50.99
+2019-04-06 18:04:969 INFO  ProductCategoryPage :164 - 28.98
+2019-04-06 18:04:969 INFO  ProductCategoryPage :164 - 30.50
+2019-04-06 18:04:984 INFO  ProductCategoryPage :164 - 16.40
+2019-04-06 18:04:984 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-06 18:04:984 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-06 18:04:984 INFO  ProductCategoryPage :151 - price filter is not working
+2019-04-23 18:04:262 INFO  TestBase :123 - Initialize Web Driver : 1873091796
+2019-04-23 18:04:324 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-23 18:04:496 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-23 18:04:512 INFO  WaitHelper :141 - Page is loaded
+2019-04-23 18:04:433 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (fb47a5e6-a86d-487b-88ee-685510fe6c69)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-23 18:04:652 INFO  WaitHelper :148 - element is visible now
+2019-04-23 18:04:652 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-23 18:04:683 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:42 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:58 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-23 18:04:762 INFO  LoginPage :75 - Entering email address....prashant@mailinator.com
+2019-04-23 18:04:74 INFO  LoginPage :81 - Entering password....[[FirefoxDriver: firefox on WINDOWS (fb47a5e6-a86d-487b-88ee-685510fe6c69)] -> xpath: //input[@name='email']]
+2019-04-23 18:04:168 INFO  LoginPage :87 - Clicking on submit button
+2019-04-23 18:04:184 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:184 INFO  JavaScriptHelper :92 - Scrolling down veritically
+2019-04-23 18:04:840 INFO  LoginPage :94 - ................User is logged in..............
+2019-04-23 18:04:981 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-23 18:04:251 INFO  TestBase :123 - Initialize Web Driver : 240630125
+2019-04-23 18:04:251 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-23 18:04:273 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-23 18:04:289 INFO  WaitHelper :141 - Page is loaded
+2019-04-23 18:04:723 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (3bfcd7d4-f62c-4aac-9aa2-fbe69c43348e)] -> xpath: //a[@title='Log in to your customer account']] for200 seconds
+2019-04-23 18:04:785 INFO  WaitHelper :148 - element is visible now
+2019-04-23 18:04:785 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-23 18:04:785 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:129 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:144 INFO  LoginPage :69 - Clicked on sign in link ...
+2019-04-23 18:04:865 INFO  LoginPage :101 - Entering registration email....1556023128865@gmail.com
+2019-04-23 18:04:803 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (3bfcd7d4-f62c-4aac-9aa2-fbe69c43348e)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-23 18:04:881 INFO  WaitHelper :148 - element is visible now
+2019-04-23 18:04:881 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-23 18:04:897 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:991 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:22 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (3bfcd7d4-f62c-4aac-9aa2-fbe69c43348e)] -> xpath: //*[@id='id_gender1']] for200 seconds
+2019-04-23 18:04:84 INFO  WaitHelper :148 - element is visible now
+2019-04-23 18:04:84 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-23 18:04:84 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:179 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:194 INFO  HomePage :100 - selecting mr checkbox....
+2019-04-23 18:04:710 INFO  HomePage :112 - entering firstname firtName
+2019-04-23 18:04:788 INFO  HomePage :118 - entering lastname lastName
+2019-04-23 18:04:850 INFO  HomePage :130 - entering password..password
+2019-04-23 18:04:944 INFO  HomePage :196 - Enetring addressaddress
+2019-04-23 18:04:180 INFO  HomePage :178 - Set your address firstnameyourAddressFirstName
+2019-04-23 18:04:290 INFO  HomePage :184 - Set your address lastnameyourAddresslastName
+2019-04-23 18:04:399 INFO  HomePage :190 - Set your company address yourAddressCompany
+2019-04-23 18:04:477 INFO  HomePage :208 - Enetring address cityyourAddressCity
+2019-04-23 18:04:540 INFO  HomePage :214 - Entering address state Alaska
+2019-04-23 18:04:618 INFO  HomePage :220 - Entering address postal code 99501
+2019-04-23 18:04:680 INFO  HomePage :238 - Entering mobilePhone 9999999999
+2019-04-23 18:04:743 INFO  HomePage :244 - Entering addressAlias addressAlias
+2019-04-23 18:04:884 INFO  HomePage :250 - clicked on registration..[[FirefoxDriver: firefox on WINDOWS (3bfcd7d4-f62c-4aac-9aa2-fbe69c43348e)] -> xpath: //*[@id='submitAccount']]
+2019-04-23 18:04:853 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (3bfcd7d4-f62c-4aac-9aa2-fbe69c43348e)] -> xpath: //span[contains(text(),'Order history and details')]] for200 seconds
+2019-04-23 18:04:915 INFO  WaitHelper :148 - element is visible now
+2019-04-23 18:04:915 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-23 18:04:915 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:09 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:103 INFO  VerificationHelper :22 - element is displayed Welcome to your account. Here you can manage all of your personal information and orders.
+2019-04-23 18:04:417 INFO  TestBase :123 - Initialize Web Driver : 1511909371
+2019-04-23 18:04:417 INFO  WaitHelper :37 - Implicit wait has been set to: 120
+2019-04-23 18:04:448 INFO  WaitHelper :139 - Waiting for page to load for : SECONDSseconds
+2019-04-23 18:04:464 INFO  WaitHelper :141 - Page is loaded
+2019-04-23 18:04:439 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (c579bb89-9e2a-4ae2-89d3-7201308e1acf)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for200 seconds
+2019-04-23 18:04:492 INFO  WaitHelper :148 - element is visible now
+2019-04-23 18:04:492 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-23 18:04:492 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:793 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:840 INFO  NavigationMenu :59 - clicking on : WOMEN
+2019-04-23 18:04:383 INFO  WaitHelper :145 - waiting for :[[FirefoxDriver: firefox on WINDOWS (c579bb89-9e2a-4ae2-89d3-7201308e1acf)] -> xpath: //p[contains(text(),'Catalog')]] for200 seconds
+2019-04-23 18:04:446 INFO  WaitHelper :148 - element is visible now
+2019-04-23 18:04:446 INFO  TestBase :155 - Capturing ui navigation screen...
+2019-04-23 18:04:446 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:602 INFO  JavaScriptHelper :17 - JavaScript Helper has been initialized
+2019-04-23 18:04:633 INFO  DropDownHelper :21 - DropDownHelper object created
+2019-04-23 18:04:680 INFO  DropDownHelper :41 - selectUsingVisibleText and visibleText is Price: Lowest first
+2019-04-23 18:04:74 INFO  ProductCategoryPage :164 - 16.51
+2019-04-23 18:04:90 INFO  ProductCategoryPage :164 - 27.00
+2019-04-23 18:04:106 INFO  ProductCategoryPage :164 - 26.00
+2019-04-23 18:04:106 INFO  ProductCategoryPage :164 - 50.99
+2019-04-23 18:04:121 INFO  ProductCategoryPage :164 - 28.98
+2019-04-23 18:04:137 INFO  ProductCategoryPage :164 - 30.50
+2019-04-23 18:04:137 INFO  ProductCategoryPage :164 - 16.40
+2019-04-23 18:04:153 INFO  ProductCategoryPage :148 - obj.get(i)..16
+2019-04-23 18:04:153 INFO  ProductCategoryPage :149 - obj.get(i+1)..27
+2019-04-23 18:04:153 INFO  ProductCategoryPage :151 - price filter is not working

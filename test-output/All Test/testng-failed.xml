@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [All Test]">
+  <test name="VerifyLowestFirstPriceFilter(failed)">
+    <classes>
+      <class name="com.uiFramework.companyName.projectName.testScripts.productDetailsPage.VerifyLowestFirstPriceFilter">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="verifyLowestFirstPriceListInProduct_detailsPage"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.uiFramework.companyName.projectName.testScripts.productDetailsPage.VerifyLowestFirstPriceFilter -->
+    </classes>
+  </test> <!-- VerifyLowestFirstPriceFilter(failed) -->
+</suite> <!-- Failed suite [All Test] -->
